@@ -16,7 +16,7 @@ export default function MerchantPortalView() {
             <div className="flex justify-between items-center">
                 <div>
                     <h2 className="text-2xl font-bold text-gray-800">Merchant Portal</h2>
-                    <p className="text-gray-500">Welcome back, Go Tambayan Inc. (SEC-2025-GTB)</p>
+                    <p className="text-gray-500">Welcome back, N Plus Inc. (SEC-2025-GTB)</p>
                 </div>
                 <div className="bg-blue-50 text-blue-700 px-4 py-2 rounded-lg font-bold border border-blue-100 flex items-center gap-2">
                     <Activity className="w-5 h-5" /> Live Mode

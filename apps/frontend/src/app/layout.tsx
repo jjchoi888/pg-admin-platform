@@ -28,7 +28,7 @@ export default function RootLayout({
 
             {/* --- 프레젠테이션 시연용 데모 메뉴 추가 --- */}
             <div className="mt-8 mb-2 px-6 text-xs font-semibold text-slate-500 uppercase tracking-wider">
-              Presentation Demos
+              Sample Demos
             </div>
             <a href="/merchant-portal" className="block py-3 px-6 text-sm text-slate-300 hover:bg-slate-800 hover:text-white transition-colors">
               🧑‍💼 Merchant View
