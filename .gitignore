@@ -1,0 +1,13 @@
+# Dependency directories
+node_modules/
+
+# Next.js build output
+.next/
+out/
+
+# NestJS build output
+dist/
+
+# Environment variables
+.env
+.env.*
